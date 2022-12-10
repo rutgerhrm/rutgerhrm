@@ -1,4 +1,4 @@
-[![rutgerhrm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutgerhrm)](https://github.com/anuraghazra/github-readme-stats)
+[![rutgerhrm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutgerhrm&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rutgerhrm/rutgerhrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
